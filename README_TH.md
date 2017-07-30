@@ -4,7 +4,7 @@
 
 > [**ฉบับภาษาไทย**](https://github.com/HomeRuk/Doofon_SeniorProject/blob/master/README_TH.md)
 
-### Highlight 
+### ไฮไลท์ 
 > ** อัลกอริทึมการตรวจจับพยากรณ์ฝนโดยใช้อัลกอริทึมจำแนกประเภท Random forests (Random decision forests)
 
 ระบบนี้ได้รับการออกแบบเพื่อใช้ในการตรวจจับสภาพอากาศในปัจจุบันและการคาดการณ์พยากรณ์ฝนตกล่วงหน้า ในระบบประกอบไปด้วย

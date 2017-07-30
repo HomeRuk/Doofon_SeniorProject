@@ -5,7 +5,7 @@
 > [**English version**](https://github.com/HomeRuk/Doofon_SeniorProject/blob/master/README.md)
 
 ### Highlight 
-> **A local rain detection algorithms based on classification algorithms by data mining**
+> **A local rain detection algorithms based on classification algorithms by Random forests (Random decision forests)**
 
    The system is designed to be utilized to detect current weather and rain forecast advance. In our system, Barometric pressure sensor, Humidity sensor, Thermistor, Light Sensor and etc are IoT device and it continuously submit their measurements to our doofon management system. 
 ### Important Features

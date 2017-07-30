@@ -1,5 +1,9 @@
 # ดูฝน: ระบบพยากรณ์ฝนตกเฉพาะที่ (IoT)
 
+> [**ฉบับภาษาอังกฤษ**](https://github.com/HomeRuk/Doofon_SeniorProject/blob/master/README.md)
+
+> [**ฉบับภาษาไทย**](https://github.com/HomeRuk/Doofon_SeniorProject/blob/master/README_TH.md)
+
 ### Highlight 
 > ** อัลกอริทึมการตรวจจับพยากรณ์ฝนโดยใช้อัลกอริทึมจำแนกประเภท Random forests (Random decision forests)
 

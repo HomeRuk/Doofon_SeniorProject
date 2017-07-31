@@ -4,6 +4,12 @@
 
 > [**English version**](https://github.com/HomeRuk/Doofon_SeniorProject/blob/master/README.md)
 
+### Documentation
+
+> [**Summary**](https://github.com/HomeRuk/Doofon_SeniorProject/blob/master/Doofon.pdf)
+
+> [**Classification algorithms**](https://github.com/HomeRuk/Doofon_SeniorProject/blob/master/Classification_Weather.pdf)
+
 ### Highlight 
 > **A local rain detection algorithms based on classification algorithms by Random forests (Random decision forests)**
 

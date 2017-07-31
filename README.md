@@ -7,10 +7,10 @@
 ### Highlight 
 > **A local rain detection algorithms based on classification algorithms by Random forests (Random decision forests)**
 
-   The system is designed to be utilized to detect current weather and rain forecast advance. In our system, Barometric pressure sensor, Humidity sensor, Thermistor, Light Sensor and etc are IoT device and it continuously submit their measurements to our doofon management system. 
+   The system is designed to be utilized to detect current weather and rain forecast advance. In our system, Barometric pressure sensor, Humidity sensor, Thermistor, Light Sensor and etc. are IoT device and it continuously submits their measurements to our doofon management system. 
 ### Important Features
 
-1. Local Weather -- display the local weather of IoT device updated every 5 minutes
+1. Local Weather -- display the local weather of IoT device updated every 5 minutes.
     * Atmospheric pressure (hPa)
     * Temperature (degree Celsius)
     * Humidity (percent %)
@@ -18,12 +18,12 @@
     * Light (illuminance or lux)
     * Rain Detection
 2. Local Rain Detection 
-    * detect an rain in 2 hour advance and display the detail of the rain for IoT device 
-    * detect current rain for IoT device 
+    * detect a rain in 2 hour advance and display the detail of the rain for IoT device. 
+    * detect current rain and display the detail of the rain for IoT device. 
 3. Rain monitoring 
     * monitor the rain forecast and sent instant notifications in case of rain forecast are more than or equal to user-defined values.
-    * monitor the current rain of IoT device and sent instant notifications in case of raindrop
-4. Weather History - view the weather history of IoT device
+    * monitor the current rain of IoT device and sent instant notifications in case of raindrop.
+4. Weather History - view the weather history of IoT device.
 
 ### Architecture for DooFon:  Local rain forecast system (IoT)
 <img src="image/ArchitectDooFon.png" width="60%"/> 

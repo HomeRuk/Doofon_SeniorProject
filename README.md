@@ -1,5 +1,7 @@
 # DooFon:  Local rain forecast system (IoT)
 
+### Language: Java, PHP	Database: MySQL
+
 > [**Thai version**](https://github.com/HomeRuk/Doofon_SeniorProject/blob/master/README_TH.md)
 
 > [**English version**](https://github.com/HomeRuk/Doofon_SeniorProject/blob/master/README.md)
@@ -16,7 +18,7 @@
    The system is designed to be utilized to detect current weather and rain forecast advance. In our system, Barometric pressure sensor, Humidity sensor, Thermistor, Light Sensor and etc. are IoT device and it continuously submits their measurements to our doofon management system. 
 ### Important Features
 
-1. Local Weather -- display the local weather of IoT device updated every 5 minutes.
+1. Local Weather -- display the local weather of each IoT device updated every 5 minutes.
     * Atmospheric pressure (hPa)
     * Temperature (degree Celsius)
     * Humidity (percent %)
@@ -24,11 +26,11 @@
     * Light (illuminance or lux)
     * Rain Detection
 2. Local Rain Detection 
-    * detect a rain in 2 hour advance and display the detail of the rain for IoT device. 
-    * detect current rain and display the detail of the rain for IoT device. 
+    * detect a rain in 2 hour advance and display the detail of the rain for each IoT device. 
+    * detect current rain and display the detail of the rain for each IoT device. 
 3. Rain monitoring 
     * monitor the rain forecast and sent instant notifications in case of rain forecast are more than or equal to user-defined values.
-    * monitor the current rain of IoT device and sent instant notifications in case of raindrop.
+    * monitor the current rain of each IoT device and sent instant notifications in case of raindrop.
 4. Weather History - view the weather history of IoT device.
 
 ### Architecture for DooFon:  Local rain forecast system (IoT)
@@ -39,7 +41,7 @@
 #### Sample IoT Device
 <img src="image/IoT.jpg" width="60%"/> 
 
-#### Sample Mobile App 
+#### Sample Mobile App (Android)
 <img src="image/app1.png" width="25%"/> <img src="image/app2.png" width="25%"/>
 
 #### Sample Web 

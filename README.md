@@ -23,7 +23,7 @@
     * Temperature (degree Celsius)
     * Humidity (percent %)
     * Dewpoint (degree Celsius)
-    * Light (illuminance or lux)
+    * Illuminance (lux)
     * Rain Detection
 2. Local Rain Detection 
     * detect a rain in 2 hour advance and display the detail of the rain for each IoT device. 

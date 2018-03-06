@@ -4,6 +4,12 @@
 
 > [**ฉบับภาษาไทย**](https://github.com/HomeRuk/Doofon_SeniorProject/blob/master/README_TH.md)
 
+### เอกสาร
+
+> [**เอกสาร สรุป**](https://github.com/HomeRuk/Doofon_SeniorProject/blob/master/Doofon.pdf)
+
+> [**เอกสาร อัลกอริทึมจำแนกประเภท**](https://github.com/HomeRuk/Doofon_SeniorProject/blob/master/Classification_Weather.pdf)
+
 ### ไฮไลท์ 
 > ** อัลกอริทึมการตรวจจับพยากรณ์ฝนโดยใช้อัลกอริทึมจำแนกประเภท Random forests (Random decision forests)
 
@@ -18,8 +24,8 @@
      * อุณหภูมิ (องศาเซลเซียส)
      * ความชื้น (เปอร์เซ็นต์)
      * จุดน้ำค้าง (องศาเซลเซียส)
-     * แสง (illuminance or lux)
-     * การตรวจจับสายฝน
+     * ความสว่างของแสง (lux)
+     * สถานะฝนตก
 2. การตรวจจับพยากรณ์ฝนเฉพาะที่
      * ตรวจจับพยากรณ์ฝนล่วงหน้า 2 ชั่วโมงและแสดงรายละเอียดของการตรวจจับ
      * ตรวจจับฝนในปัจจุบัน
